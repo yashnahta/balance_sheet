@@ -6,11 +6,8 @@ const App = () => {
   const [address, setAddress] = useState(
     "0x825206207a91480716a2dBE07aA0105bA9f0c975"
   );
-  const [transactions, setTransactions] = useState({
-    profit:0,
-    loss:0,
-  });
-
+  const [transactions, setTransactions] = useState([]);
+  const [PL,setPL]=useState([]);
   const [data, setdata] = useState({
     address1: "",
     Balance: null,

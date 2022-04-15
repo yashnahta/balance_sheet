@@ -10,7 +10,6 @@
     "botstrap": "^0.20.1",
     "ethers": "^5.6.4",
     "react": "^18.0.0",
-    "react-bootstrap": "^2.2.3",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
